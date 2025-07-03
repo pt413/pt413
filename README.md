@@ -3,7 +3,7 @@
 </div>
 
 
-* Graduate of B.Tech in Computer Engineering
+* Graduate of B.Tech in Computer Science & Engineering
 * Intern at Settyl
 
 ---
@@ -20,7 +20,7 @@ Web Development | Machine Learning | Artificial Intelligence | Android
 ## 🌐 Connect with Me  
 <div align = "center">
   
-[Email]([prakharpttandon@gmail.com]) |  [LinkedIn]([https://www.linkedin.com/in/prakhar-tandon-a46bb724b]) |  [GitHub]([https://github.com/pt413]) |  [LeetCode]([https://leetcode.com/u/_pt_/]) 
+[Email](prakharpttandon@gmail.com) |  [LinkedIn](https://www.linkedin.com/in/prakhar-tandon-a46bb724b) |  [GitHub](https://github.com/pt413) |  [LeetCode](https://leetcode.com/u/_pt_/) 
 
 </div>
 
@@ -41,7 +41,7 @@ Web Development | Machine Learning | Artificial Intelligence | Android
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/_pt_?theme=dark&font=Tiro%20Gurmukhi&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/_pt_?theme=light&font=Tiro%20Gurmukhi&ext=contest" />
 
 
 </div>

@@ -32,7 +32,7 @@ Web Development | Machine Learning | Artificial Intelligence | Data Structures &
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/_pt_?theme=light&font=Tiro%20Gurmukhi&ext=contest" height="300" width="400"/>
+<img src="https://leetcard.jacoblin.cool/_pt_?theme=light&font=Tiro%20Gurmukhi&ext=contest" height="250" width="400"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pt413&theme=buefy&show_icons=true&hide_border=true&layout=compact" alt="Stats" height="300" width="400"/>
 
 

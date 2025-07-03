@@ -1,16 +1,56 @@
-## Hi there 👋
+<div align="center">  
+  <h1>👋 Hey there! I'm Prakhar Tandon</h1>  
+</div>
 
-<!--
-**pt413/pt413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+* Graduate of B.Tech in Computer Engineering
+* Intern at Settyl
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+## 💡 Interests  
+
+<div align = "center">
+Web Development | Machine Learning | Artificial Intelligence | Android
+</div>
+
+
+
+## 🌐 Connect with Me  
+<div align = "center">
+  
+[Email]([prakharpttandon@gmail.com]) |  [LinkedIn]([https://www.linkedin.com/in/prakhar-tandon-a46bb724b]) |  [GitHub]([https://github.com/pt413]) |  [LeetCode]([https://leetcode.com/u/_pt_/]) 
+
+</div>
+
+
+
+## ⚡ Tech Stack  
+<div align = "center">
+
+
+  ![Python](https://img.shields.io/badge/PYTHON-black?style=flat-square&logo=python) ![Java](https://img.shields.io/badge/JAVA-black?style=flat-square&logo=openjdk) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-black?style=flat-square&logo=javascript) ![Django](https://img.shields.io/badge/DJANGO-black?style=flat-square&logo=django) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-black?style=flat-square&logo=typescript) ![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3) ![React](https://img.shields.io/badge/REACT-black?style=flat-square&logo=react) ![Next.js](https://img.shields.io/badge/NEXT.JS-black?style=flat-square&logo=next.js) ![Vite](https://img.shields.io/badge/VITE-black?style=flat-square&logo=vite) ![Node.js](https://img.shields.io/badge/NODE.JS-black?style=flat-square&logo=node.js) ![Express.js](https://img.shields.io/badge/EXPRESS.JS-black?style=flat-square&logo=express) ![MongoDB](https://img.shields.io/badge/MONGODB-black?style=flat-square&logo=mongodb) ![NumPy](https://img.shields.io/badge/NUMPY-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/PANDAS-black?style=flat-square&logo=pandas) ![Scikit-Learn](https://img.shields.io/badge/SCIKIT--LEARN-black?style=flat-square&logo=scikit-learn) ![Gemini AI](https://img.shields.io/badge/GEMINI_AI-black?style=flat-square&logo=google) ![Google Cloud](https://img.shields.io/badge/GOOGLE_CLOUD-black?style=flat-square&logo=googlecloud) ![Git](https://img.shields.io/badge/GIT-black?style=flat-square&logo=git) 
+  
+
+</div>
+
+
+
+## 📊 Stats  
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/_pt_?theme=dark&font=Tiro%20Gurmukhi&ext=contest" />
+
+
+</div>
+
+---
+
+<div align="center"><b>
+💡 "Let's build something amazing together!"  
+
+✨ Feel free to connect with me! 🚀 
+</b>  
+</div>

@@ -32,7 +32,7 @@ Web Development | Machine Learning | Artificial Intelligence | Data Structures &
 
 <div align="center">
 
-<img src="https://github-stats.omsimos.com/user/pt413?theme=buefy&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=pt413&theme=buefy&show_icons=true&hide_border=true&count_private=true" />
 <img src="https://leetcard.jacoblin.cool/_pt_?theme=light&font=Tiro%20Gurmukhi&ext=contest" />
 
 

@@ -12,7 +12,7 @@
 ## 💡 Interests  
 
 <div align = "center">
-Web Development | Machine Learning | Artificial Intelligence | Android
+Web Development | Machine Learning | Artificial Intelligence | Data Structures & Algorithm | Android Development
 </div>
 
 

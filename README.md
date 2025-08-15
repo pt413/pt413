@@ -4,7 +4,7 @@
 
 
 * Graduate of B.Tech in Computer Science & Engineering
-* Intern at Settyl
+* Software Engineer at RentMyStay
 
 ---
 
